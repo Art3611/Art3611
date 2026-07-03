@@ -50,7 +50,8 @@ I enjoy working in collaborative environments and solving real-world problems th
 I’m currently looking for **junior or remote opportunities**, and I’m also **willing to relocate** for the right project.  
 
 💬 Feel free to reach out:  
-📧 art3611@gmail.com  
+📧 art3611@gmail.com
+🔗 [Web](https://art3611.github.io/Portfolio-Web/)  
 🔗 [LinkedIn](https://linkedin.com/in/artush-mkrtchyan-ghazaryan-81a9a1174)  
 🔗 [Portfolio Projects](https://github.com/Art3611?tab=repositories)  
 
